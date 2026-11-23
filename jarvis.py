@@ -20,7 +20,7 @@ while True:
         webbrowser.open("https://yandex.ru")
 
     elif command == "github":
-        print("🐍 Открываю ваш личный репозиторий CreatorAleksey...")
+        print("🐍 Открываю ваш личный репозиторий...")
         webbrowser.open("https://github.com")
 
     elif command == "exit":
